@@ -11,9 +11,9 @@ const Home = () => (
     <Nav />
 
     <div className='hero'>
-      <h1 className='title'>Welcome to Next.js!</h1>
+      <h1 className='title'>Welcome to ss.js!</h1>
       <p className='description'>
-        To get started, edit <code>pages/index.js</code> and save to reload.
+        To get started, edit <code>pages/index.js</code> and sss to reload.
       </p>
 
       <div className='row'>
