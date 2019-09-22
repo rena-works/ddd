@@ -11,7 +11,7 @@ const Home = () => (
     <Nav />
 
     <div className='hero'>
-      <h1 className='title'>Welcome to ss.js!</h1>
+      <h1 className='title'>A lot of thing happening right now!</h1>
       <p className='description'>
         To get started, edit <code>pages/index.js</code> and sss to reload.
       </p>
